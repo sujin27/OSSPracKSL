@@ -10,4 +10,4 @@ My Name : Sujin Lee
 
 일자 : 2024. 3. 27
 
-Weather : Clean sky
+Weather : Clean
